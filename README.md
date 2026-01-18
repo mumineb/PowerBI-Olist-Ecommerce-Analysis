@@ -50,7 +50,6 @@ Bu projede **End-to-End BI (Uçtan Uca İş Zekası)** süreçleri uygulanmışt
 ## 📂 Dosya Yapısı
 * `Olist_Analysis_Final.pbix`: Power BI Proje Dosyası.
 * `Screenshots/`: Proje ekran görüntüleri.
-* `Data/`: (Opsiyonel) Kaggle veri seti linki.
 
 ## 🔗 Veri Seti
 Kullanılan veri seti: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
