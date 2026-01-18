@@ -57,4 +57,5 @@ Kullanılan veri seti: [Brazilian E-Commerce Public Dataset by Olist](https://ww
 
 ---
 **Geliştirici:** Mümine Buran
+
 **LinkedIn:** www.linkedin.com/in/mumineb
